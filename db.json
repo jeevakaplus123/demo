@@ -9,6 +9,10 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+   "reg": [
+    { "name": "saman", "email": "some comment", "password": "12" },
+    { "name": "kamal", "email": "some comnt", "password": "12345" }
+  ],
   "profile": {
     "name": "typicode"
   }
